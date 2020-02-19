@@ -6,3 +6,4 @@
 <h2> deploy using ansible, validate auto build with Ansible playbooks,second revision  </h2>
 <h2> deploy using ansible, validate auto build with Ansible playbooks, kubernetes deployment </h2>
 <h2> deploy using ansible, validate auto build with Ansible playbooks, kubernetes deployment automated  </h2>
+<h2> deploy using ansible, validate auto build with Ansible playbooks, kubernetes deployment automated second time  </h2>
